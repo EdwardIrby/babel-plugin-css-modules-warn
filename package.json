@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-css-modules-warn",
+  "version": "1.0.0",
+  "description": "Warns you when you have an error with your css modules classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EdwardIrby/babel-plugin-css-modules-warn.git"
+  },
+  "author": "Edward irby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdwardIrby/babel-plugin-css-modules-warn/issues"
+  },
+  "homepage": "https://github.com/EdwardIrby/babel-plugin-css-modules-warn#readme"
+}
